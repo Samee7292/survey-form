@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+  }
+  body{
+    background-color: #9fd3c7;
+    margin: 15px;
+    border: 10px;
+  }
+  #rate{
+    font-weight: 100;
+  }
+  p{
+    font-size: smaller;
+    color:red;
+  }
